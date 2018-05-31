@@ -1,0 +1,2 @@
+# Notes
+LeetCode solutions
