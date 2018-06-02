@@ -135,6 +135,7 @@ class Solution:
                     #比它下边原来的多一个
         return down_hands
 
+    
     def get_map(self, N, mines):
         m = [[1 for x in range(N)] for y in range(N)]
         for i in range(len(mines)):
